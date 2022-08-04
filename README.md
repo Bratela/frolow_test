@@ -5,7 +5,7 @@ http://www.leningrad.su/calc/speed.php
 
 ## Calculator HP Prime description:
 
-Software version:2.1.14603(20121 12 02)
+Software version: 2.1.14603(2021 12 02)
 
 Hardware Version: C
 
@@ -14,6 +14,8 @@ CAS Version: 1.5.0
 Serial Number:9CJ71500VS
 
 Operating System:V0.050.640
+
+![HP Prime](/hp_prime2.png)
 
 ## Program for test:
 
@@ -41,6 +43,7 @@ END;
 END;
 
 ```
+![HP Prime PPL](/hp_prime1.png)
 
 ### Speed:
 Iteration was made 1000 times for speed calculation.
@@ -56,4 +59,5 @@ Iteration was made 1000 times for speed calculation.
 
 4669470.09653
 
+![HP Prime Result](/hp_prime3.png)
 
