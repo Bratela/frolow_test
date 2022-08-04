@@ -15,7 +15,7 @@ Serial Number:9CJ71500VS
 
 Operating System:V0.050.640
 
-## Programm for test:
+## Program for test:
 
 ### Language: HP PPL
 
@@ -41,3 +41,19 @@ END;
 END;
 
 ```
+
+### Speed:
+Iteration was made 1000 times for speed calculation.
+
+1000 iteration = 00:58.18 sec
+
+10 iteration = 00:00.5818 sec
+
+
+### Math Result :
+
+674514.86877
+
+4669470.09653
+
+
