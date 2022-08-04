@@ -49,9 +49,9 @@ END;
 ### Speed:
 Iteration was made 1000 times for speed calculation.
 
-1000 iteration = 00:58.18 sec
+1000 iteration = 00:58.18 min
 
-10 iteration = 00:00.5818 sec
+10 iteration = 00:00.5818 min
 
 
 ### Math Result :
