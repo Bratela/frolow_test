@@ -1,5 +1,6 @@
 # HP Prime calculator with Frolow Test.
-Frolow test for calculator HP Prime
+Frolow test for calculator HP Prime.
+
 I used this test from this article
 http://www.leningrad.su/calc/speed.php
 
@@ -61,3 +62,10 @@ Iteration was made 1000 times for speed calculation.
 
 ![HP Prime Result](/hp_prime3.png)
 
+#### P.S. 
+
+For screenshot i used HP Prime Connectivity Kit
+
+If you see any mistake or questions please write me or leave comment in this GitHub.
+
+Thank you!
