@@ -34,12 +34,12 @@ LOCAL B:=A;
  FOR C FROM 1 TO 27 DO
   A:= A*A;
   B:= B^2,01
-
  END;
  
 PRINT(A);
 PRINT(B);
 PRINT("------------");
+
 END;
 END;
 
